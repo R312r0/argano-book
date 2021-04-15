@@ -46,5 +46,9 @@ $$
 
 Let's find the amount of CNBTC, needed to perform the minting, using 0.7 WBTC:
 
+$$
+CNBTC Amount = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+$$
+
 
 
