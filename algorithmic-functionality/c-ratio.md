@@ -12,7 +12,7 @@ _Target Collateral Ratio_ `TCR` represents the C - Ratio to reach the desired as
 * The `TCR` will be automatically calculated and established one time per hour, with the possible step of 0.25%. The maximum ratio couldn't be reached more than 6% per 24 hours.
 
 {% hint style="info" %}
-In the general sense, if the algorithmic token price is higher than the price of the stablecoin \(in the case of AGOUSD\) or the real bitcoin price \(in the case of AGOBTC\), the protocol will apply the lower collateral ratio to create new tokens. And vice versa, when the algorithmic token price is lower than it's needed, the protocol will increase the ratio automatically.
+In the general sense, if the algorithmic token price is higher than the price of the stablecoin \(in the case of AGOUSD\) or the real Bitcoin price \(in the case of AGOBTC\), the protocol will apply the lower collateral ratio to create new tokens. And vice versa, when the algorithmic token price is lower than it's needed, the protocol will increase the ratio automatically.
 {% endhint %}
 
 _Effective Collateral Ratio_ `ECR` is equal to the ratio between the total value of collateral assets and the total value of algorithmic tokens in circulation.
