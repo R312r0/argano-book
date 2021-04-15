@@ -48,5 +48,3 @@ Let's find the amount of CNBTC, needed to perform the minting, using 0.7 WBTC:
 
 
 
-
-
