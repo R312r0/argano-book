@@ -45,6 +45,10 @@ $$
 * CNBTC price - $21,500
 * We are going to mint 1 AGOBTC
 
+$$
+a = b
+$$
+
 
 
 
