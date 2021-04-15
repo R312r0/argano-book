@@ -1,7 +1,18 @@
 ---
 description: Utility and usage in the ecosystem
 ---
+Inline math: $$\int_{-\infty}^\infty g(x) dx$$
 
+
+Block math:
+
+$$
+\int_{-\infty}^\infty g(x) dx
+$$
+
+Or using the templating syntax:
+
+{% math %}\int_{-\infty}^\infty g(x) dx{% endblock %}
 # AGO - governance token
 
 ### Argano protocol is presenting its own token, built according to the ERC - 20 standards which are supported in the Ethereum mainnet.
