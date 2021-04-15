@@ -4,7 +4,7 @@ description: How does collateralization work
 
 # C - Ratio
 
-Since Argano offers 2 algorithmic, dollar and bitcoin pegged tokens - **AGOUSD & AGOBTC** respectively, our team is going to use _Target Collateral Ratio_ and _Effective Collateral Ratio_ in order to stabilize the asset price and regulate their circulation according to the market supply and demand:
+Since Argano offers 2 algorithmic, dollar and Bitcoin pegged tokens - **AGOUSD & AGOBTC** respectively, our team is going to use _Target Collateral Ratio_ and _Effective Collateral Ratio_ in order to stabilize the asset price and regulate their circulation according to the market supply and demand:
 
 _Target Collateral Ratio_ `TCR` represents the C - Ratio to reach the desired asset price.
 
