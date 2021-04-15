@@ -1,7 +1,6 @@
 ---
 description: Utility and usage in the ecosystem
 ---
-
 # AGO - governance token
 
 ### Argano protocol is presenting its own token, built according to the ERC - 20 standards which are supported in the Ethereum mainnet.
@@ -13,6 +12,7 @@ At first, AGO tokens can be owned by all types of investors and community member
 {% endhint %}
 
 As with the stock market and share prices on the one hand, and the cryptocurrency market and token prices, on the other hand, we should understand the performance of the project or company using some indexes. The first glance of the interested investor should fall on the following financial indicators and some simple things, to be able to make a purposeful investment decision and, as a result, to get some benefits from it:
+
 
 Inline math: $$\int_{-\infty}^\infty g(x) dx$$
 
@@ -26,6 +26,7 @@ $$
 Or using the templating syntax:
 
 {% math %}\int_{-\infty}^\infty g(x) dx{% endblock %}
+
 
 1. Market capitalization.
 2. Trading volume.
