@@ -13,7 +13,7 @@ The token minting formula is the same for both AGOUSD / AGOBTC tokens. The main 
 Let's take a look at the following basic formula:
 
 $$
-AGOUSD / AGOBTC Ammount=(Ca*Cp) +(Sa*Sp)
+AGOUSD / AGOBTC Amount=(Ca*Cp) +(Sa*Sp)
 $$
 
 {% hint style="warning" %}
@@ -40,14 +40,11 @@ $$
 
 ### Set - up №2:
 
-* TCR - 76.25%
+* TCR - 86.25%
 * WBTC price - $62,350
 * CNBTC price - $21,500
-* We are going to mint 1 AGOBTC
 
-$$
-a = b
-$$
+Let's find the amount of CNBTC, needed to perform the minting, using 0.7 WBTC:
 
 
 
