@@ -8,11 +8,9 @@ description: The origins and further vision
 
 ## Argano is a decentralized protocol and a yield aggregator which is built and supported on the Ethereum network.
 
-The purpose of the Argano protocol is to offer the best services of the decentralized exchange with obviously new and innovative features in the DeFi space. The main peculiarities that distinguish Argano DEX from the other protocols are shown in the next key points of the document structure.
+The purpose of the Argano protocol is to offer the best services of the decentralized exchange with obviously new and innovative features in the DeFi space. The main peculiarities that distinguish Argano from the other protocols are shown in the next key points of the document structure.
 
-{% hint style="info" %}
-_To be honest and open to our community, the Argano team has been inspired by the Iron Finance and Frax Finance protocols, namely their vision and implementation of the algorithmic stablecoins._
-{% endhint %}
+At the fair launch stage, we are going to offer the Argano protocol liquidity mining event, which will bring decent rewards in the form of native governance token AGO. Over and above, our main goal to launch the algorithmic cycle functionality of AGOBTC & AGOUSD tokens, which will bring arbitrage opportunities during different market conditions and will supply the liquidity into the future Argano DEX platform. 
 
-However, our team has its own purposes and utility concerning Argano **native**, **synthetic**, **partially collateralized** and **algorithmic** _**AGOBTC & AGOUSD**_ tokens, which functionality will be deeper described in the following sections.
+Argano team has its own purposes and utility concerning _**native**_, _**synthetic**_, _**partially collateralized**_ and _**algorithmic**_ AGOBTC & AGOUSD tokens, which functionality will be deeper described in the following sections.
 

@@ -1,12 +1,17 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Staking rewards & Liquidity mining](staking-rewards-and-liquidity-mining.md)
 * [Argano governance](argano-governance-voting.md)
 * [Asset management](asset-management.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
 * [Smart contracts structure](smart-contracts-structure.md)
+
+## Liquidity program
+
+---
+
+* [Staking rewards & Liquidity mining](staking-rewards-and-liquidity-mining.md)
 
 ## Algorithmic functionality
 
