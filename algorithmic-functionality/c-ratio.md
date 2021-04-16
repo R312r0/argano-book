@@ -4,6 +4,10 @@ description: How does collateralization work
 
 # C - Ratio
 
+{% hint style="info" %}
+_To be honest and open to our community, the Argano team has been inspired by the Iron Finance and Frax Finance protocols, namely their vision and implementation of the algorithmic stablecoins._
+{% endhint %}
+
 Since Argano offers 2 algorithmic, dollar and Bitcoin pegged tokens - **AGOUSD & AGOBTC** respectively, our team is going to use _Target Collateral Ratio_ and _Effective Collateral Ratio_ in order to stabilize the asset price and regulate their circulation according to the market supply and demand:
 
 _**Target Collateral Ratio**_ `TCR` represents the C - Ratio to reach the desired asset price.
