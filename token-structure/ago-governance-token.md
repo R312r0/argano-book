@@ -9,7 +9,7 @@ description: Utility and usage in the ecosystem
 At first, AGO tokens can be owned by all types of investors and community members after participating in the few stages of the token sale event with a certain allocation per person.
 
 {% hint style="info" %}
-**The tokenomics and further token distribution can be found in the** [**relevant section**](../tokenomics.md#agonomics-and-initial-distribution)**.**
+**The tokenomics and further token distribution can be found in the** [**relevant section**](tokenomics.md#agonomics-and-initial-distribution)**.**
 {% endhint %}
 
 As with the stock market and share prices on the one hand, and the cryptocurrency market and token prices, on the other hand, we should understand the performance of the project or company using some indexes. The first glance of the interested investor should fall on the following financial indicators and some simple things, to be able to make a purposeful investment decision and, as a result, to get some benefits from it:
