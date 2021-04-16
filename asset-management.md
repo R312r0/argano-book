@@ -2,7 +2,7 @@
 description: Portfolio features
 ---
 
-# Asset management
+# Argano Portfolio
 
 Argano advanced asset portfolio was created to fill all the trading and farming activities with clear information, transparent data and visual details.
 
