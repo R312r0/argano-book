@@ -45,13 +45,13 @@ $$
 Let's find the amount of CNBTC, needed to perform the minting, using 0.7 WBTC:
 
 $$
-CNBTC _{Amount}= \cfrac{(0.7_{WBTC}×62000)×(1-\overbrace{70\%}^{\text{TCR}})}{24,000.00×\underbrace{70\%}_{\text{TCR}}}
+CNBTC _{Amount}= \cfrac{(0.7_{WBTC}×62000)×(1-\overbrace{70\%}^{\text{TCR}})}{24000×\underbrace{70\%}_{\text{TCR}}} = 0.775_{CNBTC}
 $$
 
 Using 0.7 WBTC and 0.775 CNBTC the total amount of AGOBTC will be minted.
 
 $$
-(0.7WBTC*62000)+(0.775*24000)=43400+18600=$62000 = 1AGBTC
+(0.7WBTC×62000)+(0.775×24000)=43400+18600=$62000 ⇔ 1_{AGOBTC}
 $$
 
 The same calculation applies to the AGOUSD minting.
