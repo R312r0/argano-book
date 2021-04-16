@@ -17,8 +17,6 @@
 
 ## Token structure
 
----
-
-* [AGOBTC & AGOUSD](agobtc-and-agousd.md)
-* [AGO - governance token](ago-governance-token.md)
+* [AGOBTC & AGOUSD](token-structure/agobtc-and-agousd.md)
+* [AGO - governance token](token-structure/ago-governance-token.md)
 
