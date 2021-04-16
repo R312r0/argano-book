@@ -21,6 +21,6 @@ _**Effective Collateral Ratio**_ `ECR` is equal to the ratio between the total v
 * When the user wants to redeem his AGOUSD or AGOBTC tokens, he can be sure that for every number of both algorithmic tokens, he will receive the required number of collateral tokens and share tokens to achieve an equivalent value in dollar terms.
 
 $$
-ECR =
+ECR = \cfrac{\text{Total Collateral Value}}{\text{Total CNUSD / CNBTC Supply}}
 $$
 
