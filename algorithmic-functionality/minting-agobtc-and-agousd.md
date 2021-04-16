@@ -13,16 +13,11 @@ The main difference will be applied only for the mechanism of the price stabilit
 Let's take a look at the following basic formula:
 
 $$
-AGOUSD / AGOBTC Amount=(Ca*Cp) +(Sa*Sp)
+AGOUSD / AGOBTC _{Amount}=(Collateral_{Amount}×Collateral_{Price}) +(Share_{Amount}×Share_{Price})
 $$
 
 {% hint style="warning" %}
-Where:
-
-* Ca - the amount of the collateral
-* Cp - the current price of the collateral
-* Sa - CNUSD / CNBTC token amount
-* Sp - the current price of both share CNUSD / CNBTC tokens
+Where _**Share**_ used as CNUSD / CNBTC tokens respectively, according to the selected algorithmic token.
 {% endhint %}
 
 Now, let's take a look at the following situations, using different input data.
@@ -37,7 +32,7 @@ In the case of AGOUSD minting, the amount of CNUSD and collateral \(USDT\) is re
 In the beginning, when the level of the collateralization will be absolute, for minting 1 AGOUSD token, there is no need to use the CNUSD share token:
 
 $$
-1 USDT * 1 = $1 =1AGOUSD
+1 _{USDT} × $1.00 = $1.00 ⇔1_{AGOUSD}
 $$
 
 ### Set - up №2:
@@ -50,7 +45,7 @@ $$
 Let's find the amount of CNBTC, needed to perform the minting, using 0.7 WBTC:
 
 $$
-CNBTC Amount= (0.7*62,000.00)*(1-0.7)/24,000.00*0.7=13020/16800=0.775
+CNBTC Amount= (0.7×62,000.00)×(1-0.7)/24,000.00×0.7=13020/16800=0.775
 $$
 
 Using 0.7 WBTC and 0.775 CNBTC the total amount of AGOBTC will be minted.
