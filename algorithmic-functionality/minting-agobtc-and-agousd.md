@@ -45,7 +45,7 @@ $$
 Let's find the amount of CNBTC, needed to perform the minting, using 0.7 WBTC:
 
 $$
-CNBTC Amount= (0.7×62,000.00)×(1-0.7)/24,000.00×0.7=13020/16800=0.775
+CNBTC _{Amount}= \cfrac{(0.7_{WBTC}×62000)×(1-\overbrace{70\%}^{\text{TCR}})}{24,000.00×\underbrace{70\%}_{\text{TCR}}}
 $$
 
 Using 0.7 WBTC and 0.775 CNBTC the total amount of AGOBTC will be minted.
