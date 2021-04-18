@@ -19,6 +19,5 @@ A useful tool for managing your active positions on the Argano DEX is an integra
 * Managing open positions
 * Risk management
 
-Summing up all these facts, we are proud of the advanced Argano asset portfolio functionality and sincerely hope that this instrument will prevent losses and will improve risk controls in skilled hands.  
-
+Summing up all these facts, we are proud of the advanced Argano asset portfolio functionality and sincerely hope that this instrument will prevent losses and will improve risk controls in skilled hands.
 

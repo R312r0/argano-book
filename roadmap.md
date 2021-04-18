@@ -4,7 +4,7 @@ description: 2021 development roadmap
 
 # Roadmap
 
-### **Q1**
+## **Q1**
 
 * Smart contracts development
 * Assembly of layouts, designs
@@ -13,7 +13,7 @@ description: 2021 development roadmap
 * Implementation of the staking functionality, an adaptation of the smart contracts, testing interaction with smart contracts
 * Testing, troubleshooting and error correction
 
-### **Q2**
+## **Q2**
 
 * Holding a presale event
 * Dashboard visual and technical improvements
@@ -27,7 +27,7 @@ description: 2021 development roadmap
 * Leveraged and margin trading functionality
 * Testing, troubleshooting and error correction
 
-### **Q3**
+## **Q3**
 
 * L2 DEX: Stop Loss orders, Limit orders, advanced order book
 * Futures contracts development
@@ -35,7 +35,7 @@ description: 2021 development roadmap
 * Development and implementation of synthetic tokens and indices
 * Testing, troubleshooting and error correcti**on**
 
-### **Q4**
+## **Q4**
 
 * Mobile applications on IOS and Android
 * Extension in the browser for notifications

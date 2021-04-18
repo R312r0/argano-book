@@ -4,7 +4,7 @@ description: The origins and further vision
 
 # Introduction
 
-> #### _**“Glory is in the hands of labor” - Leonardo da Vinci**_
+> ### _**“Glory is in the hands of labor” - Leonardo da Vinci**_
 
 ## Argano is a decentralized protocol and a yield aggregator which is built and supported on the Ethereum network.
 

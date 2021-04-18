@@ -52,7 +52,7 @@ Now, let's take a look at the following situations, using different input data.
 
 In the case of AGOUSD minting, the amount of CNUSD and collateral \(USDT\) is required to reach a $1 price. The required amount of both Share and Collateral tokens will be calculated according to the present **`TCR`** level.
 
-### Set - up №1:
+## Set - up №1:
 
 * TCR - 100%
 * USDT price - $1
@@ -61,13 +61,13 @@ In the case of AGOUSD minting, the amount of CNUSD and collateral \(USDT\) is re
 
 In the beginning, when the level of the collateralization will be absolute, for minting 1 AGOUSD token, there is no need to use the CNUSD share token:
 
-When the TCR level is equal to 100%, the user will need _0_  Share tokens to mint 1 AGOUSD / AGOBTC:
+When the TCR level is equal to 100%, the user will need _0_ Share tokens to mint 1 AGOUSD / AGOBTC:
 
 $$
 1 USDT * 1 = $1 =1AGOUSD
 $$
 
-### Set - up №2:
+## Set - up №2:
 
 * TCR  is equal to 70%
 * WBTC price - $62,000.00

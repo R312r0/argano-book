@@ -22,5 +22,3 @@ Being in this state means that the system requires to higher Target Collateral R
 
 * Invoking the `rebalance` function will lead to the sale of share tokens CNUSD / CNBTC from the Treasury smart contract to reach the necessary amount of collateral assets.
 
-
-
