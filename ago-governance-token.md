@@ -36,7 +36,7 @@ Moreover, our team is not a fan of the one-day “food projects” that attract 
 
 To prevent token price inflation, Argano will practice different ways, including the Buyback & burn strategy and implementation of the lower trading fees for the token holders on the upcoming Argano DEX. Besides, AGO’s total supply has a limit of 52,000,000 tokens and this number is fixed and could not be increased. In this way, all the above features are designed to support the Argano utility token and encourage the token holders.
 
-To make AGO valuable and rare of its kind, the Argano team has a certain plan of decreasing the total supply of the AGO tokens up to 40% quarterly and during the next 5 years:
+To make AGO valuable and rare of its kind, the Argano team has a certain plan of decreasing the total supply of the AGO tokens up to 30% quarterly and during the next 5 years:
 
 \*PICTURE\*
 
