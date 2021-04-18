@@ -1,4 +1,4 @@
-# Argano governance
+# Argano Governance voting
 
 At this time, we can present a voting power system for the AGO token holders on the [SnapShot platform](https://snapshot.page/#/).
 

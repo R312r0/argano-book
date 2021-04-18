@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [AGO - governance token](ago-governance-token.md)
-* [Argano governance](argano-governance-voting.md)
+* [Argano Governance voting](argano-governance-voting.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
 
