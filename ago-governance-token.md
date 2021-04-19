@@ -44,3 +44,7 @@ To make AGO valuable and rare of its kind, the Argano team has a certain plan of
 
 ![](.gitbook/assets/frame-14.png)
 
+{% hint style="info" %}
+Fees, accumulated from the vaults and gathered in the Treasury contract, will be used to buy AGO tokens from the open market for their further burn.
+{% endhint %}
+
