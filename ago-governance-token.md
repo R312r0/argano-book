@@ -40,5 +40,5 @@ To make AGO valuable and rare of its kind, the Argano team has a certain plan of
 
 ![](.gitbook/assets/frame-12%20%281%29.png)
 
-![](.gitbook/assets/frame-13.png)
+![](.gitbook/assets/frame-14.png)
 
