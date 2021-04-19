@@ -18,9 +18,11 @@ On the portfolio page, the user will meet a full-featured chart with the asset p
 
 Other important segments are active pools and vaults. Argano advanced portfolio makes it easy to interact with them in one click. For example, you can deposit a certain amount of tokens without leaving the portfolio page and vice versa, withdraw all funds if something went wrong.
 
+![Staking / Pools / Trading](.gitbook/assets/group-77.png)
+
 Activity history example:
 
-![](.gitbook/assets/history.png)
+![Activity history](.gitbook/assets/history.png)
 
 A useful tool for managing your active positions on the Argano DEX is an integral part, using the asset portfolio page. Trading and Leverage active windows will show you the most considerable data supported by the functionality, such as:
 
