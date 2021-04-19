@@ -32,7 +32,7 @@ Argano token distribution events based on the traditional terms of providing liq
 {% endhint %}
 
 {% hint style="success" %}
-The deposit fee will be accumulated in the treasury contract and will have a certain appointment. See AGO Buyback & burning.
+The deposit fee will be accumulated in the treasury contract and will have a certain appointment. See AGO [Buyback & burning.](ago-governance-token.md#buyback-and-burn)
 {% endhint %}
 
 At the fair launch, Argano DEX will use Uniswap as an automated market maker. AMM smart contracts work on the well-known mathematical formula:
