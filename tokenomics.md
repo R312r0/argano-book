@@ -17,5 +17,5 @@ description: Distribution information concerning AGO token
 * Official team members - 7,800,000 \(15%\)
 * Fundraising event - 5,200,000 \(10%\)
 
-![](https://lh6.googleusercontent.com/CCUrd1ps_JFeu2EK7u8XhPOdaXsGNbw8Z47Cdmx0lbbBXaV-eotOu-l3k-chZMezQryg2oyDGomrH57dQSUPBbz3Gp0H016YSQH-sTRYwejyg9bJKBsOusqfluYyZnoF5l-d-Qhf)
+![](.gitbook/assets/frame-3.png)
 
