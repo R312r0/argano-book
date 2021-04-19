@@ -38,5 +38,7 @@ To prevent token price inflation, Argano will practice different ways, including
 
 To make AGO valuable and rare of its kind, the Argano team has a certain plan of decreasing the total supply of the AGO tokens up to _**30%**_ quarterly and during the next 5 years:
 
-![](.gitbook/assets/frame-12.png)
+![](.gitbook/assets/frame-12%20%281%29.png)
+
+![](.gitbook/assets/frame-13.png)
 
