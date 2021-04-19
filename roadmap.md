@@ -33,7 +33,7 @@ description: 2021 development roadmap
 * Futures contracts development
 * Ultimate trading toolset development and testing
 * Development and implementation of synthetic tokens and indices
-* Testing, troubleshooting and error correcti**on**
+* Testing, troubleshooting and error correction
 
 ### **Q4**
 
