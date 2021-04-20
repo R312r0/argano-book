@@ -4,7 +4,7 @@ description: 'Coming soon, contracts are adding during the development progress'
 
 # Testnet contracts \(pending\)
 
-#### AGO
+#### AGO \(Mainnet\)
 
 {% embed url="https://etherscan.io/token/0xb204f02376982afd1c592aed3ccd30da624e11b1" %}
 
