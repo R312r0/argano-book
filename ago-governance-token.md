@@ -35,7 +35,7 @@ Therefore, returning to the token price, the Argano team considers that the **AG
 
 Moreover, our team is not a fan of the one-day “food projects” that attract newcomers with unsubstantial high yield returns without any single understanding of preserving the value. Most of these projects still work on the old-fashioned ideas of Ponzi schemes.
 
-To prevent token price inflation, Argano will practice different ways, including the Buyback & burn strategy and implementation of the lower trading fees for the token holders on the upcoming Argano DEX. Besides, AGO’s total supply has a limit of 52,000,000 tokens and this number is fixed and could not be increased. In this way, all the above features are designed to support the Argano utility token and encourage the token holders.
+To prevent token price inflation, Argano will practice different ways, including the Buyback & burn strategy and implementation of the lower trading fees for the token holders on the upcoming Argano DEX. Besides, AGO’s total supply has a limit of `52,000,000` tokens and this number is fixed and could not be increased. In this way, all the above features are designed to support the Argano utility token and encourage the token holders.
 
 ## Buyback & burn
 
