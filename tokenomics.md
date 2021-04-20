@@ -6,7 +6,7 @@ description: Distribution information concerning AGO token
 
 ## **“Agonomics”**
 
-**Initial and further distribution.**
+**Initial and further distribution**
 
 ### $AGO total supply - `52,000,000`:
 
