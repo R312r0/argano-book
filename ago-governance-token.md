@@ -2,7 +2,7 @@
 description: Utility and usage in the ecosystem
 ---
 
-# AGO - governance token
+# AGO - Governance token
 
 ## Argano protocol is presenting its own token, built according to the ERC - 20 standards which are supported in the Ethereum mainnet.
 

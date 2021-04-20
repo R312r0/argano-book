@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [AGO - governance token](ago-governance-token.md)
+* [AGO - Governance token](ago-governance-token.md)
 * [Argano Governance voting](argano-governance-voting.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
@@ -38,4 +38,8 @@
 ## Contacts
 
 * [Social Media](contacts/social-media.md)
+
+---
+
+* [Catena share tokens](catena-share-tokens.md)
 
