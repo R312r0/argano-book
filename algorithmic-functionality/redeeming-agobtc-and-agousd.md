@@ -48,5 +48,7 @@ $$
 \text{Total Value} =(0.00001356_{WBTC}×59000) +(0.00001111_{CNBTC}×18000)= 0.80004+0.19998=1.00002
 $$
 
-
+{% hint style="info" %}
+The basic redeeming fee is configured to 0.4% but can be decreased to 0.2% by holding the AGO governance token on the Ethereum wallet.
+{% endhint %}
 
