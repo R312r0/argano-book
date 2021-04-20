@@ -22,6 +22,7 @@
 * [Minting AGOBTC & AGOUSD](algorithmic-functionality/minting-agobtc-and-agousd.md)
 * [Redeeming AGOBTC & AGOUSD](algorithmic-functionality/redeeming-agobtc-and-agousd.md)
 * [Rebalancing](algorithmic-functionality/rebalancing.md)
+* [Catena share tokens](algorithmic-functionality/catena-share-tokens.md)
 
 ## Asset management tool
 
@@ -38,8 +39,4 @@
 ## Contacts
 
 * [Social Media](contacts/social-media.md)
-
----
-
-* [Catena share tokens](catena-share-tokens.md)
 
