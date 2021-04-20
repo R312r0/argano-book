@@ -29,7 +29,8 @@ Therefore, returning to the token price, the Argano team considers that the **AG
 **AGO** native token is a utility token of the Argano ecosystem and it is ready to become an integral and vital component of the structure of the platform and, in addition, to provide a clear benefit for all stakeholders and participants:
 
 * **AGO** is a reward token of the main liquidity pools and staking smart contracts during the liquidity mining phase;
-* **AGO** is designed to lower trading fees on the Argano DEX for the token holders ;
+* **AGO** is designed to lower trading fees on the Argano DEX for the token holders;
+* **AGO** token implementation has a direct effect on the redeeming fee, which is configured to 0.4% as a basic value but can be decreased to 0.2% just by holding the Argano governance token on the user's Ethereum wallet during the redeeming process.
 * **AGO** is a governance token of the Argano protocol, which reflects the right to vote and the power of voting through the Snapshot platform. Future changes in the protocol and the implementation of the new features, logic, and calculations will be carried out through a kind of election, which is available only for the token holders.
 
 Moreover, our team is not a fan of the one-day “food projects” that attract newcomers with unsubstantial high yield returns without any single understanding of preserving the value. Most of these projects still work on the old-fashioned ideas of Ponzi schemes.
