@@ -56,3 +56,7 @@ $$
 
 The same calculation applies to the AGOUSD minting.
 
+{% hint style="info" %}
+The minting fee is configured to 0.3% per transaction.
+{% endhint %}
+
