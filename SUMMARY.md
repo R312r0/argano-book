@@ -35,3 +35,7 @@
 
 * [Smart contracts structure](smart-contracts-structure.md)
 
+## Contacts
+
+* [Social Media](contacts/social-media.md)
+
