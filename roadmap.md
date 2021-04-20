@@ -17,8 +17,7 @@ description: 2021 development roadmap
 
 * Holding a presale event
 * Dashboard visual and technical improvements
-* Development of the Argano asset portfolio:
-* P & L processing and storage of historical data
+* Development of the Argano asset portfolio: 
   * P & L processing and storage of the historical data
   * Performance calculations
   * Asset pool management functionality
