@@ -21,7 +21,7 @@ description: 2021 development roadmap
   * P & L processing and storage of the historical data
   * Performance calculations
   * Asset pool management functionality
-* Spot trading development, including cooperation and connection to 0x API
+* Spot trading development
 * Cross-chain asset trading implementation
 * Leveraged and margin trading functionality
 * Testing, troubleshooting and error correction
