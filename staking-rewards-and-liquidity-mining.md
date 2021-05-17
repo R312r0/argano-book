@@ -45,7 +45,7 @@ where x - the amount of one token in the liquidity pool, y - the amount of anoth
 
 To become a liquidity provider, users should keep the asset price ratio 50% / 50% and have 2 tokens in their wallets that will be used in the following pool:
 
-* **AGO / WETH** 
+* **AGO / MATIC**
 
 _The total reward pool size - 18,200,000 AGO \(35%\)_
 
