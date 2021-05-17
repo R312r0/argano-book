@@ -4,7 +4,7 @@ description: Utility and usage in the ecosystem
 
 # AGO - Governance token
 
-## Argano protocol is presenting its own token, built according to the ERC - 20 standards which are supported in the Ethereum mainnet.
+## Argano protocol is presenting its own token, built according to the ERC - 20 standards which are supported within the Polygon Network.
 
 At first, AGO tokens can be owned by all types of investors and community members after participating in the few stages of the token sale event with a certain allocation per person.
 
