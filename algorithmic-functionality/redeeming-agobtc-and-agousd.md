@@ -49,6 +49,6 @@ $$
 $$
 
 {% hint style="info" %}
-The basic redeeming fee is configured to 0.4% but can be decreased to 0.2% by holding the AGO governance token on the Ethereum wallet.
+The basic redeeming fee is configured to 0.4% but can be decreased to 0.2% by holding the AGO governance token on the wallet.
 {% endhint %}
 
