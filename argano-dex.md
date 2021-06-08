@@ -1,6 +1,6 @@
 ---
 description: >-
-  Full-featured Argano DEX and Yield Aggregator powered by collateralized
+  Full-featured Argano DEX and Liquidity Aggregator powered by collateralized
   synthetic tokens, backed by own liquidity, built on the Polygon sidechain
 ---
 
