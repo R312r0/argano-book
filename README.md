@@ -6,7 +6,7 @@ description: The origins and further vision
 
 > #### _**“Glory is in the hands of labor” - Leonardo da Vinci**_
 
-## Argano is a decentralized protocol and a yield aggregator which is built and supported on the Polygon sidechain network.
+## Argano is a decentralized protocol and liquidity aggregator which is built and supported on the Polygon sidechain network.
 
 The Argano protocol aims to offer the best services of the decentralized exchange with obviously new and innovative features in the DeFi space. The main peculiarities that distinguish Argano from the other protocols are shown in the next key points of the document structure.
 
