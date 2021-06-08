@@ -22,7 +22,7 @@ description: 2021 development roadmap
   * Performance calculations
   * Asset pool management functionality
 * Spot trading development
-* Cross-chain asset trading implementation
+* Cross-chain asset trading implementation using Polygon SDK
 * Leveraged and margin trading functionality
 * Testing, troubleshooting and error correction
 
