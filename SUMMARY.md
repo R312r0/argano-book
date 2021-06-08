@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Argano DEX](argano-dex.md)
 * [AGO - Governance token](ago-governance-token.md)
 * [Argano Governance voting](argano-governance-voting.md)
 * [Tokenomics](tokenomics.md)
@@ -39,8 +40,4 @@
 ## Contacts
 
 * [Social Media](contacts/social-media.md)
-
----
-
-* [Argano DEX](argano-dex.md)
 
