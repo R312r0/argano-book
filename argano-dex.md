@@ -18,7 +18,7 @@ The described goal will be achieved through a system of phases described below. 
 * Ensuring the necessary level of liquidity to maintain the viability of the synthetic, partially collateralized Argano native tokens AGOUSD / AGOBTC
 * Stabilization of the level of liquidity maintenance, token prices, and the parallel development of a decentralized exchange
 
-![](.gitbook/assets/0.png)
+![](.gitbook/assets/0-1-.png)
 
 ## **Phase 1 “Liquidity migration and primary DEX functionality”**
 
@@ -26,7 +26,7 @@ The described goal will be achieved through a system of phases described below. 
 * Community warning stage about holding global liquidity migration event from the external DEX onto Argano native DEX smart contracts
 * Ensuring a sufficient level of liquidity and introducing primary functionality of the future full-featured trading platform
 
-![](.gitbook/assets/1.png)
+![](.gitbook/assets/1-1-.png)
 
 ## **Phase 2 “Implementation of the key trading tools”**
 
