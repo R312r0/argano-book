@@ -25,7 +25,7 @@ Argano token distribution events based on the traditional terms of providing liq
 3. Stake your freshly received AGO tokens into the vault with the fixed return - _**30% APR**_.
 4. Claim your AGO rewards anytime.
 
-![Organization of the staking process](.gitbook/assets/frame-15.png)
+![Organization of the staking process](.gitbook/assets/frame-8.png)
 
 {% hint style="info" %}
 **Funds lock period applies only to the single token staking in the vault smart contracts. The period is equal to 90 days. After the mentioned time, you will be eligible to withdraw your deposit.**
