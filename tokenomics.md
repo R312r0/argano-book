@@ -18,5 +18,5 @@ description: Distribution information concerning AGO token
 * Community public sale event - 8,125,000 \(12.5%\)
 * Seed stage investment - 16,250,000 \(25%\) including linear 3 years vesting period
 
-![](.gitbook/assets/frame-28.png)
+![](.gitbook/assets/frame-28%20%281%29.png)
 
