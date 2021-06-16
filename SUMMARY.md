@@ -35,7 +35,7 @@
 
 ---
 
-* [Testnet contracts \(pending\)](smart-contracts-structure.md)
+* [Core smart contracts](smart-contracts-structure.md)
 
 ## Contacts
 
