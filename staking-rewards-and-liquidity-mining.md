@@ -8,21 +8,21 @@ Argano token distribution events based on the traditional terms of providing liq
 
 1. Only AGOBTC is accepted for staking.
 2. Get your AGOBTC by purchasing minting new tokens on the corresponding page.
-3. Stake your freshly received AGOBTC tokens into the vault with the fixed return - _**30% APR**_.
+3. Stake your freshly received AGOBTC tokens into the vault.
 4. Claim your AGO rewards anytime.
 
 * **AGOUSD vault** _Reward pool size - 3,250,000 AGO \(5%\) Harvest Lockup - 90 days Deposit fee - 4%_
 
 1. Only AGOUSD  is accepted for staking.
 2. Get your AGOUSD by purchasing or minting new tokens on the corresponding page.
-3. Stake your freshly received AGOUSD tokens into the vault with the fixed return - _**18% APR**._
+3. Stake your freshly received AGOUSD tokens into the vault.
 4. Claim your AGO rewards anytime.
 
 * **AGO vault** _Reward pool size - 3,250,000 AGO \(5%\) Harvest Lockup - 90 days Deposit fee - 4%_
 
 1. Only AGO itself is accepted for staking.
 2. Get your AGO by purchasing on the trading page or use your tokens from the pre-sale event.
-3. Stake your freshly received AGO tokens into the vault with the fixed return - _**30% APR**_.
+3. Stake your freshly received AGO tokens into the vault.
 4. Claim your AGO rewards anytime.
 
 ![Organization of the staking process](.gitbook/assets/frame-8.png)
