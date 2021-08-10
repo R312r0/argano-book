@@ -10,19 +10,17 @@ Argano advanced asset portfolio was created to fill all the trading and farming 
 At now, the following screenshots of the Argano Portfolio use bogus data, just to show the visual part of the asset management tool.
 {% endhint %}
 
-![User&apos;s account example](.gitbook/assets/account%20%281%29.png)
+![User&apos;s account example](.gitbook/assets/account%20%282%29.png)
 
 On the portfolio page, the user will meet a full-featured chart with the asset performance, shown in real-time. All the data will be collected and available for the user, including a historical chart. Stored assets on the user’s wallet will be shown in the pie chart, which will illustrate the numerical ratio of the user’s funds.
 
-![](.gitbook/assets/portfolio-perfomance-1d.png)
+![](.gitbook/assets/group-307.png)
 
 Other important segments are active pools and vaults. Argano advanced portfolio makes it easy to interact with them in one click. For example, you can deposit a certain amount of tokens without leaving the portfolio page and vice versa, withdraw all funds if something went wrong.
 
-![Staking / Pools / Trading](.gitbook/assets/group-77.png)
-
 Activity history example:
 
-![Activity history](.gitbook/assets/history.png)
+![Activity history](.gitbook/assets/history%20%281%29.png)
 
 A useful tool for managing your active positions on the Argano DEX is an integral part, using the asset portfolio page. Trading and Leverage active windows will show you the most considerable data supported by the functionality, such as:
 
