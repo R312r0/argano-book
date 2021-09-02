@@ -1,40 +1,46 @@
 # Core smart contracts
 
 {% hint style="info" %}
-Here you can reach our smart contracts structure. Contracts are already deployed into the Polygon network. After the audit report of the Argano protocol, there is a possibility that some of them will be redeployed with accepted code fixes.
+Here you can reach our smart contracts structure. Contracts are already deployed into the Polygon network.
 {% endhint %}
 
 ### Argano governance token
 
-| Contract name | Adress |
+| Contract name | Address |
 | :--- | :--- |
-| AGO  | [0xCd3E3CB5aD12AfCf779841483E68CBF9065753A3](https://polygonscan.com/address/0xCd3E3CB5aD12AfCf779841483E68CBF9065753A3) |
+| AGO  | [0x4e125214Db26128B35c24c66113C63A83029e433](https://polygonscan.com/address/0x4e125214Db26128B35c24c66113C63A83029e433) |
 
 ### Argano BTC smart contracts
 
-| Contract name | Adress |
+| Contract name | Address |
 | :--- | :--- |
-| AGOBTC | [0x277575136024040C4a44085A2554161787724d00](https://polygonscan.com/address/0x277575136024040C4a44085A2554161787724d00) |
-| CNBTC | [0xd2212285e4deDB4029140D164442571825C67115](https://polygonscan.com/address/0xd2212285e4deDB4029140D164442571825C67115) |
-| Treasury AGOBTC | [0x4eB266B348cea8E6725FaDae5Ae19dd04177269F](https://polygonscan.com/address/0x4eB266B348cea8E6725FaDae5Ae19dd04177269F) |
-| Pool AGOBTC | [0x1c1aBB267ECB99442C912E3A09638155d6240509](https://polygonscan.com/address/0x1c1aBB267ECB99442C912E3A09638155d6240509) |
-| Foundry BTC | [0x50Cfd2371f27458Daa70E3A360ecB8C51321546e](https://polygonscan.com/address/0x50Cfd2371f27458Daa70E3A360ecB8C51321546e) |
+| AGOBTC | [0xb9f5b73dbF1e2B9b34cd0B76cDB28dE9AD7c95ce](https://polygonscan.com/address/0xb9f5b73dbf1e2b9b34cd0b76cdb28de9ad7c95ce) |
+| CNBTC | [0xf8D6FBf91E1d0ef11E1A1d5384758c04d2517fe9](https://polygonscan.com/address/0xf8d6fbf91e1d0ef11e1a1d5384758c04d2517fe9) |
+| Treasury AGOBTC | [0x169B8C64CeD077d941BE91Fc89BB62739F38E647](https://polygonscan.com/address/0x169b8c64ced077d941be91fc89bb62739f38e647) |
+| Pool AGOBTC | [0xf422cb9C7c382c9B0274ee84D75104387c380678](https://polygonscan.com/address/0xf422cb9c7c382c9b0274ee84d75104387c380678) |
+| Foundry BTC | [0xfB59682d4a14F632207B4024F282576a72DC3845](https://polygonscan.com/address/0xfb59682d4a14f632207b4024f282576a72dc3845) |
 
 ### Argano USD smart contracts
 
-| Contract name | Adress |
+| Contract name | Address |
 | :--- | :--- |
-| AGOUSD | [0xF6748bb7d13460Dc7792dA48e20D52a16b4203F9](https://polygonscan.com/address/0xf6748bb7d13460dc7792da48e20d52a16b4203f9) |
-| CNUSD | [0xdD201adDC30b62A42F1171d81167f83e2dEC569D](https://polygonscan.com/address/0xdD201adDC30b62A42F1171d81167f83e2dEC569D) |
-| Treasury AGOUSD | [0x03F6A91D336909BBE2aFC4a6dCD9AD6f23D44CB7](https://polygonscan.com/address/0x03f6a91d336909bbe2afc4a6dcd9ad6f23d44cb7) |
-| Pool AGOUSD | [0x264D2A3994b413cfd085b60f37958DED8961efbC](https://polygonscan.com/address/0x264d2a3994b413cfd085b60f37958ded8961efbc) |
-| Foundry USD | [0x62dA7A28C5Ff8592491e44E699Cc0635C56BC859](https://polygonscan.com/address/0x62dA7A28C5Ff8592491e44E699Cc0635C56BC859) |
+| AGOUSD | [0x9d655C916f548cD29E521bCFd3d83Eef8F6DAE59](https://polygonscan.com/address/0x9d655C916f548cD29E521bCFd3d83Eef8F6DAE59) |
+| CNUSD | [0x47C44d60A75e2E8009F4Ce8F166b46e6b94b235F](https://polygonscan.com/address/0x47c44d60a75e2e8009f4ce8f166b46e6b94b235f) |
+| Treasury AGOUSD | [0xE4F2961c98aD492447d5C7aAdDCec04D72DCB7c0](https://polygonscan.com/address/0xe4f2961c98ad492447d5c7aaddcec04d72dcb7c0) |
+| Pool AGOUSD | [0x3Ad6C7640DA03716B7b80A8F804C02b63214d03f](https://polygonscan.com/address/0x3ad6c7640da03716b7b80a8f804c02b63214d03f) |
+| Foundry USD | [0x2a5e24D4F9b43A83c77973f0C727deFab0fEB345](https://polygonscan.com/address/0x2a5e24d4f9b43a83c77973f0c727defab0feb345) |
 
-### MasterChef smart contract
+### Timelock smart contract
 
-| Contract name | Adress |
+| Contract name | Address |
 | :--- | :--- |
-| MasterChef | [0xea7D6011B3F7797557Ae6456fc7eBc1e80aF6170](https://polygonscan.com/address/0xea7D6011B3F7797557Ae6456fc7eBc1e80aF6170) |
+| Timelock | [0xA41819313D9b0f7680a9cAf1009203a16811b349](https://polygonscan.com/address/0xa41819313d9b0f7680a9caf1009203a16811b349) |
+
+### Reward distribution smart contract
+
+| Contract name | Address |
+| :--- | :--- |
+| MasterChef | _Pending_ |
 
 ###  
 
