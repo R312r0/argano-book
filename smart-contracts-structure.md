@@ -1,9 +1,5 @@
 # Core smart contracts
 
-{% hint style="info" %}
-Here you can reach our smart contracts structure. Contracts are already deployed into the Polygon network.
-{% endhint %}
-
 ### Argano governance token
 
 | Contract name | Address |
