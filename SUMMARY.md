@@ -41,7 +41,7 @@
 
 ---
 
-* [Audit report](audit-report.md)
+* [Audit](audit-report.md)
 
 ## Contacts
 
