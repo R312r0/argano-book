@@ -43,8 +43,8 @@ Share tokens both for USD and BTC pegged tokens play important role in the algor
 
 Parameters:
 
-* CNUSD: 80,000,000
-* CNBTC: 8,000
+* CNUSD: `80,000,000` ****
+* CNBTC: `8,000`
 
 #### 
 
