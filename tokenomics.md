@@ -19,5 +19,13 @@ description: Distribution information concerning AGO token
 * Private sale event - 166,622 \(~0.25%\)
 * Seed stage investment - 16,250,000 \(25%\) including linear 3 years vesting period
 
-![](.gitbook/assets/frame-28%20%281%29.png)
+![](.gitbook/assets/frame-28%20%283%29.png)
+
+## Fundraising
+
+| Round name | Token amount, % | Token price \($\) | Claim process | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| Seed/angel investment | 16,250,000 \(25%\) | 0.25 | 3 years linear vesting | Pending |
+| Private community sale | 166,622 \(~0.25%\) | 0.45 | Unlocked | ✅  |
+| Public community sale | 8,125,000 \(12.5%\) | 1.25 | Unlocked | Pending |
 
