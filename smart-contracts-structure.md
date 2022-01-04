@@ -11,32 +11,32 @@
 | Contract name              | Address                                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | AGOBTC                     | [0xe65d6998E744cb46f17B27E5a8559855ac64Ec2D](https://polygonscan.com/address/0xe65d6998e744cb46f17b27e5a8559855ac64ec2d) |
-| CNBTC                      | [0xf8D6FBf91E1d0ef11E1A1d5384758c04d2517fe9](https://polygonscan.com/address/0xf8d6fbf91e1d0ef11e1a1d5384758c04d2517fe9) |
-| Treasury AGOBTC            | [0x169B8C64CeD077d941BE91Fc89BB62739F38E647](https://polygonscan.com/address/0x169b8c64ced077d941be91fc89bb62739f38e647) |
-| Pool AGOBTC                | [0xf422cb9C7c382c9B0274ee84D75104387c380678](https://polygonscan.com/address/0xf422cb9c7c382c9b0274ee84d75104387c380678) |
-| Foundry BTC                | [0xfB59682d4a14F632207B4024F282576a72DC3845](https://polygonscan.com/address/0xfb59682d4a14f632207b4024f282576a72dc3845) |
-| AGOBTC / WBTC Pair Oracle  | [0x3c824128274ec10666b22aAE687B0bFcE2CDdB4B](https://polygonscan.com/address/0x3c824128274ec10666b22aae687b0bfce2cddb4b) |
-| AGOBTC Token Oracle        | [0x98c2856706e0D07bE087619B36A64a66dbA8bfe3](https://polygonscan.com/address/0x98c2856706e0d07be087619b36a64a66dba8bfe3) |
-| CNBTC / WMATIC Pair Oracle | [0x4A2001B62c5e1DCaCDa63eA827662F12340A3A50](https://polygonscan.com/address/0x4a2001b62c5e1dcacda63ea827662f12340a3a50) |
-| CNBTC Token Oracle         | [0xB6005e062363a1Da60bD0E39F50a17f61b1017B5](https://polygonscan.com/address/0xb6005e062363a1da60bd0e39f50a17f61b1017b5) |
-| WBTC Chainlink Oracle      | [0xDc1d3ff4E2bB6145CE02091b1F742dCe203Cfb62](https://polygonscan.com/address/0xdc1d3ff4e2bb6145ce02091b1f742dce203cfb62) |
-| WMATIC Chainlink Oracle    | [0x926a047578a07017AD019AFCB29F92b929315E90](https://polygonscan.com/address/0x926a047578a07017ad019afcb29f92b929315e90) |
+| CNBTC                      | [0xE86E1363132B5B92AC2049058B6A5cb2E04565d3](https://polygonscan.com/address/0xE86E1363132B5B92AC2049058B6A5cb2E04565d3) |
+| Treasury AGOBTC            | [0xb8C21036Dc1aA2688d30c41000056e1d8a6f0255](https://polygonscan.com/address/0xb8C21036Dc1aA2688d30c41000056e1d8a6f0255) |
+| Pool AGOBTC                | [0x610094adF401626D6B62df62bF6E67A7A6E22043](https://polygonscan.com/address/0x610094adf401626d6b62df62bf6e67a7a6e22043) |
+| Foundry AGOBTC             | [0xb4825e19050715feeD3f636053E811871661Fbdc](https://polygonscan.com/address/0xb4825e19050715feeD3f636053E811871661Fbdc) |
+| AGOBTC / WBTC Pair Oracle  | [0x99725fEf742F1DB2ea22bA26bB623D75aE09a26F](https://polygonscan.com/address/0x99725fEf742F1DB2ea22bA26bB623D75aE09a26F) |
+| AGOBTC Token Oracle        | [0x8E6Aea794fD6a678A1ef40C3175dC405A1D60dA0](https://polygonscan.com/address/0x8e6aea794fd6a678a1ef40c3175dc405a1d60da0) |
+| CNBTC / WMATIC Pair Oracle | [0x82cFf87C39ae473A7518F4f3Bf1F486714A1dd28](https://polygonscan.com/address/0x82cFf87C39ae473A7518F4f3Bf1F486714A1dd28) |
+| CNBTC Token Oracle         | [0xf35DD795770bdcddD2588C80aa75DdFF34A4a262](https://polygonscan.com/address/0xf35dd795770bdcddd2588c80aa75ddff34a4a262) |
+| WBTC Chainlink Oracle      | [0x3329c85Fa450785CF393AEA293e2E113e7849E79](https://polygonscan.com/address/0x3329c85Fa450785CF393AEA293e2E113e7849E79) |
+| WMATIC Chainlink Oracle    | [0x138470Cd30D42CD093f3573445fc6756249Fcc82](https://polygonscan.com/address/0x138470cd30d42cd093f3573445fc6756249fcc82) |
 
 ### Argano USD smart contracts
 
 | Contract name              | Address                                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| AGOUSD                     | [0x9d655C916f548cD29E521bCFd3d83Eef8F6DAE59](https://polygonscan.com/address/0x9d655C916f548cD29E521bCFd3d83Eef8F6DAE59) |
-| CNUSD                      | [0x47C44d60A75e2E8009F4Ce8F166b46e6b94b235F](https://polygonscan.com/address/0x47c44d60a75e2e8009f4ce8f166b46e6b94b235f) |
-| Treasury AGOUSD            | [0xE4F2961c98aD492447d5C7aAdDCec04D72DCB7c0](https://polygonscan.com/address/0xe4f2961c98ad492447d5c7aaddcec04d72dcb7c0) |
-| Pool AGOUSD                | [0x3Ad6C7640DA03716B7b80A8F804C02b63214d03f](https://polygonscan.com/address/0x3ad6c7640da03716b7b80a8f804c02b63214d03f) |
-| Foundry USD                | [0x2a5e24D4F9b43A83c77973f0C727deFab0fEB345](https://polygonscan.com/address/0x2a5e24d4f9b43a83c77973f0c727defab0feb345) |
-| AGOUSD / USDT Pair Oracle  | [0x54B9B1389dcdE6E2c7eBA4d392A21B4A871b9E9D](https://polygonscan.com/address/0x54b9b1389dcde6e2c7eba4d392a21b4a871b9e9d) |
-| AGOUSD Token Oracle        | [0x8b7CAffCc74ee835324F95CB193411Ec32DC8f07](https://polygonscan.com/address/0x8b7caffcc74ee835324f95cb193411ec32dc8f07) |
-| CNUSD / WMATIC Pair Oracle | [0x04432f360D02E3dAF2a85aAB8F422914FC2fb96A](https://polygonscan.com/address/0x04432f360d02e3daf2a85aab8f422914fc2fb96a) |
-| CNUSD Token Oracle         | [0x79f494526AE8fa543825335b3fB634F575c66b52](https://polygonscan.com/address/0x79f494526ae8fa543825335b3fb634f575c66b52) |
-| USDT Chainlink Oracle      | [0xdEe75F81a2D1D2551140c7Fb4D67EAc3231D5026](https://polygonscan.com/address/0xdee75f81a2d1d2551140c7fb4d67eac3231d5026) |
-| WMATIC Chainlink Oracle    | [0x223637266F0835df686A5C4FC1Efd5a011EB569e](https://polygonscan.com/address/0x223637266f0835df686a5c4fc1efd5a011eb569e) |
+| AGOUSD                     | [0x629215C28e5F467307a1bf51161505c0730f06C3](https://polygonscan.com/address/0x629215c28e5f467307a1bf51161505c0730f06c3) |
+| CNUSD                      | [0xB57B1e729673A13E91FF07671aA1bD6e74DCab8b](https://polygonscan.com/address/0xb57b1e729673a13e91ff07671aa1bd6e74dcab8b) |
+| Treasury AGOUSD            | [0x7fc76857ef263f3A6eEbDA2178A57e53a45B47F6](https://polygonscan.com/address/0x7fc76857ef263f3a6eebda2178a57e53a45b47f6) |
+| Pool AGOUSD                | [0x250EFcd45D9f83036f2D403223c7cCb2E1e9D00b](https://polygonscan.com/address/0x250efcd45d9f83036f2d403223c7ccb2e1e9d00b) |
+| Foundry AGOUSD             | [0x6729d1E5dcDBb01da9045312af255A4a35cbd3A0](https://polygonscan.com/address/0x6729d1e5dcdbb01da9045312af255a4a35cbd3a0) |
+| AGOUSD / USDT Pair Oracle  | [0x8597934e430a64480eF54B1144c287089B007482](https://polygonscan.com/address/0x8597934e430a64480ef54b1144c287089b007482) |
+| AGOUSD Token Oracle        | [0xcfFC49530ee2fffab46582dAF2e7fb4D7349D879](smart-contracts-structure.md#argano-governance-token)                       |
+| CNUSD / WMATIC Pair Oracle | [0x518b1B381Ea45589468B8A08c95E7F0deD26ba38](https://polygonscan.com/address/0x518b1b381ea45589468b8a08c95e7f0ded26ba38) |
+| CNUSD Token Oracle         | [0xfDF3e2319e54f5D9eC869ECbb0136d07cfdA939C](https://polygonscan.com/address/0xfdf3e2319e54f5d9ec869ecbb0136d07cfda939c) |
+| USDT Chainlink Oracle      | [0x9559e33664e46c6d7DE51d79D5cc5c3EDdDdF50c](https://polygonscan.com/address/0x9559e33664e46c6d7de51d79d5cc5c3eddddf50c) |
+| WMATIC Chainlink Oracle    | [0x138470Cd30D42CD093f3573445fc6756249Fcc82](https://polygonscan.com/address/0x138470cd30d42cd093f3573445fc6756249fcc82) |
 
 ### Timelock smart contract
 
@@ -44,10 +44,14 @@
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Timelock      | [0xA41819313D9b0f7680a9cAf1009203a16811b349](https://polygonscan.com/address/0xa41819313d9b0f7680a9caf1009203a16811b349) |
 
-### Reward distribution smart contract
+### Reward distribution smart contracts
 
-| Contract name | Address   |
-| ------------- | --------- |
-| MasterChef    | _Pending_ |
-
-### &#x20;
+| Contract name              | Address                                                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Single MasterChef AGOy     | <p><a href="https://polygonscan.com/address/0x49881fa26f4b6eebf6791e85247b56d412039264">0x49881Fa26F4B6EEBF6791E85247b56d412039264</a><br></p> |
+| Single MasterChef AGOUSD   | [0x2b99ba7d51D4Be00852C27dD61dFeCFBC77121c7](https://polygonscan.com/address/0x2b99ba7d51d4be00852c27dd61dfecfbc77121c7)                       |
+| Single MasterChef AGOBTC   | [0x8de26d4Bfd311aF2D727383f9DEdc023BDdAF808](https://polygonscan.com/address/0x8de26d4bfd311af2d727383f9dedc023bddaf808)                       |
+| LP MasterChef AGOUSD/USDT  | [0xAcEF71144D5e01e89CEDD53eBB5b7E422d030834](https://polygonscan.com/address/0xacef71144d5e01e89cedd53ebb5b7e422d030834)                       |
+| LP MasterChef CNUSD/WMATIC | [0x4c99AF184e4598360a5D17b7d6539b900B8B269c](https://polygonscan.com/address/0x4c99af184e4598360a5d17b7d6539b900b8b269c)                       |
+| LP MasterChef AGOBTC/WBTC  | [0xe9269671c2a9a95354b3b02AB34063c31AECe378](https://polygonscan.com/address/0xe9269671c2a9a95354b3b02ab34063c31aece378)                       |
+| LP MasterChef CNBTC/WMATIC | [0xe9B7920Cb7a18CB30EA8E58f6b5AD11D12f11081](https://polygonscan.com/address/0xe9b7920cb7a18cb30ea8e58f6b5ad11d12f11081)                       |
