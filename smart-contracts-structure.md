@@ -5,6 +5,7 @@
 | Contract name | Address                                                                                                                  |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | AGO           | [0x4e125214Db26128B35c24c66113C63A83029e433](https://polygonscan.com/address/0x4e125214Db26128B35c24c66113C63A83029e433) |
+| AGOy          | [0xc165f5E799278914dC1FFA10cf31142730ca26f3](smart-contracts-structure.md#argano-governance-token)                       |
 
 ### Argano BTC smart contracts
 
