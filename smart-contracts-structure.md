@@ -56,3 +56,11 @@
 | LP MasterChef CNUSD/WMATIC | [0x4c99AF184e4598360a5D17b7d6539b900B8B269c](https://polygonscan.com/address/0x4c99af184e4598360a5d17b7d6539b900b8b269c)                       |
 | LP MasterChef AGOBTC/WBTC  | [0xe9269671c2a9a95354b3b02AB34063c31AECe378](https://polygonscan.com/address/0xe9269671c2a9a95354b3b02ab34063c31aece378)                       |
 | LP MasterChef CNBTC/WMATIC | [0xe9B7920Cb7a18CB30EA8E58f6b5AD11D12f11081](https://polygonscan.com/address/0xe9b7920cb7a18cb30ea8e58f6b5ad11d12f11081)                       |
+
+### DEX contracts
+
+| Contract name | Address                                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Factory       | [0xdAc31E70c2C4Fea0629e85e7B67222127A8672d8](https://polygonscan.com/address/0xdac31e70c2c4fea0629e85e7b67222127a8672d8) |
+| Router        | [0xD3d28e4958bAa48a7c4bDC2e486E0f6D7501f0d8](broken-reference)                                                           |
+
