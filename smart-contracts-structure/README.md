@@ -5,7 +5,7 @@
 | Contract name | Address                                                                                                                  |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | AGO           | [0x4e125214Db26128B35c24c66113C63A83029e433](https://polygonscan.com/address/0x4e125214Db26128B35c24c66113C63A83029e433) |
-| AGOy          | [0xc165f5E799278914dC1FFA10cf31142730ca26f3](smart-contracts-structure.md#argano-governance-token)                       |
+| AGOy          | [0xc165f5E799278914dC1FFA10cf31142730ca26f3](./#argano-governance-token)                                                 |
 
 ### Argano BTC smart contracts
 
@@ -33,7 +33,7 @@
 | Pool AGOUSD                | [0x250EFcd45D9f83036f2D403223c7cCb2E1e9D00b](https://polygonscan.com/address/0x250efcd45d9f83036f2d403223c7ccb2e1e9d00b) |
 | Foundry AGOUSD             | [0x6729d1E5dcDBb01da9045312af255A4a35cbd3A0](https://polygonscan.com/address/0x6729d1e5dcdbb01da9045312af255a4a35cbd3a0) |
 | AGOUSD / USDT Pair Oracle  | [0x8597934e430a64480eF54B1144c287089B007482](https://polygonscan.com/address/0x8597934e430a64480ef54b1144c287089b007482) |
-| AGOUSD Token Oracle        | [0xcfFC49530ee2fffab46582dAF2e7fb4D7349D879](smart-contracts-structure.md#argano-governance-token)                       |
+| AGOUSD Token Oracle        | [0xcfFC49530ee2fffab46582dAF2e7fb4D7349D879](./#argano-governance-token)                                                 |
 | CNUSD / WMATIC Pair Oracle | [0x518b1B381Ea45589468B8A08c95E7F0deD26ba38](https://polygonscan.com/address/0x518b1b381ea45589468b8a08c95e7f0ded26ba38) |
 | CNUSD Token Oracle         | [0xfDF3e2319e54f5D9eC869ECbb0136d07cfdA939C](https://polygonscan.com/address/0xfdf3e2319e54f5d9ec869ecbb0136d07cfda939c) |
 | USDT Chainlink Oracle      | [0x9559e33664e46c6d7DE51d79D5cc5c3EDdDdF50c](https://polygonscan.com/address/0x9559e33664e46c6d7de51d79d5cc5c3eddddf50c) |
@@ -56,11 +56,3 @@
 | LP MasterChef CNUSD/WMATIC | [0x4c99AF184e4598360a5D17b7d6539b900B8B269c](https://polygonscan.com/address/0x4c99af184e4598360a5d17b7d6539b900b8b269c)                       |
 | LP MasterChef AGOBTC/WBTC  | [0xe9269671c2a9a95354b3b02AB34063c31AECe378](https://polygonscan.com/address/0xe9269671c2a9a95354b3b02ab34063c31aece378)                       |
 | LP MasterChef CNBTC/WMATIC | [0xe9B7920Cb7a18CB30EA8E58f6b5AD11D12f11081](https://polygonscan.com/address/0xe9b7920cb7a18cb30ea8e58f6b5ad11d12f11081)                       |
-
-### DEX contracts
-
-| Contract name | Address                                                                                                                  |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Factory       | [0xdAc31E70c2C4Fea0629e85e7B67222127A8672d8](https://polygonscan.com/address/0xdac31e70c2c4fea0629e85e7b67222127a8672d8) |
-| Router        | [0xD3d28e4958bAa48a7c4bDC2e486E0f6D7501f0d8](broken-reference)                                                           |
-

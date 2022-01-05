@@ -9,11 +9,11 @@
 
 ## Liquidity program
 
----
+***
 
 * [Staking rewards & Liquidity mining](staking-rewards-and-liquidity-mining.md)
 
-## Synthetic tokens <a id="token-structure"></a>
+## Synthetic tokens <a href="#token-structure" id="token-structure"></a>
 
 * [AGOBTC & AGOUSD](token-structure/agobtc-and-agousd.md)
 
@@ -27,23 +27,23 @@
 
 ## Asset management tool
 
----
+***
 
 * [Argano Portfolio](asset-management.md)
 
 ## Smart contract structure
 
----
+***
 
-* [Core smart contracts](smart-contracts-structure.md)
+* [Core smart contracts](smart-contracts-structure/README.md)
+  * [DEX contracts](smart-contracts-structure/dex-contracts.md)
 
-## Security <a id="security-1"></a>
+## Security <a href="#security-1" id="security-1"></a>
 
----
+***
 
 * [Audit](audit-report.md)
 
 ## Contacts
 
 * [Social Media](contacts/social-media.md)
-
