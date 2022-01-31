@@ -11,7 +11,7 @@ description: Distribution information concerning AGO token
 ### $AGO total supply - `65,000,000`:
 
 * Vault staking rewards - 9,750,000 (15%)
-* Liquidity mining rewards - 13,000,000 (20%)
+* Liquidity mining rewards - 12,833,378 (19.75%)
 * Initial liquidity - 3,250,000 (5%)
 * Development - 6,500,000 (10%) including linear 1 year vesting peroid
 * Official team members - 8,125,000 (12.5%) including linear 1 year vesting period
@@ -19,7 +19,7 @@ description: Distribution information concerning AGO token
 * Private sale event - 166,622 (\~0.25%)
 * Seed stage investment - 16,250,000 (25%) including linear 3 years vesting period
 
-![](<.gitbook/assets/frame-28 (3).png>)
+![](<.gitbook/assets/Frame 28 (2).png>)
 
 ## Fundraising
 
