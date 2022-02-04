@@ -37,7 +37,7 @@ Argano token distribution events based on the traditional terms of providing liq
 ![Organization of the staking process](.gitbook/assets/frame-8.png)
 
 {% hint style="info" %}
-**Funds lock period applies only to the single token staking in the vault smart contracts. The period is equal to 90 days. After the mentioned time, you will be eligible to withdraw your deposit.**
+**Funds lock period applies only to the single token staking in the vault smart contracts. The period is equal to 7 days. After the mentioned time, you will be eligible to withdraw your deposit.**
 {% endhint %}
 
 {% hint style="success" %}
