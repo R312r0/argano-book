@@ -46,4 +46,4 @@
 
 ## Contacts
 
-* [Social Media](contacts/social-media.md)
+* [email@argano.io](contacts/social-media.md)
