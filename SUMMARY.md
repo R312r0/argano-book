@@ -46,4 +46,4 @@
 
 ## Contacts
 
-* [Untitled](contacts/social-media.md)
+* [For business proposals](contacts/social-media.md)
