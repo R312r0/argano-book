@@ -6,10 +6,6 @@ description: Portfolio features
 
 Argano advanced asset portfolio was created to fill all the trading and farming activities with clear information, transparent data and visual details.
 
-{% hint style="warning" %}
-At now, the following screenshots of the Argano Portfolio use bogus data, just to show the visual part of the asset management tool.
-{% endhint %}
-
 ![User's account example](<.gitbook/assets/account (2).png>)
 
 On the portfolio page, the user will meet a full-featured chart with the asset performance, shown in real-time. All the data will be collected and available for the user, including a historical chart. Stored assets on the user’s wallet will be shown in the pie chart, which will illustrate the numerical ratio of the user’s funds.
