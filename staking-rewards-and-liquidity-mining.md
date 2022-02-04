@@ -56,6 +56,6 @@ To become a liquidity provider, users should keep the asset price ratio 50% / 50
 
 * **AGO / MATIC**
 
-_The total reward pool size - 13,000,000 AGO (20%)_
+_The total reward pool size - 12,833,378 (19.75%)_
 
 For participating in a liquidity program and maintaining the trading volume, liquidity providers will be rewarded by the AGO governance token and a part of the trading fees. This fee (0.25%) is paid by traders who interact with the liquidity pools and make token swaps.\
