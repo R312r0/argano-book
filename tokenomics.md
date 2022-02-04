@@ -21,6 +21,8 @@ description: Distribution information concerning AGO token
 
 ![](<.gitbook/assets/Frame 28 (2).png>)
 
+![](<.gitbook/assets/Кривые (2).png>)
+
 ## Fundraising
 
 | Round name             | Token amount, %   | Token price ($) | Claim process          | Status                |

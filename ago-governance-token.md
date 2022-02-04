@@ -41,11 +41,8 @@ To prevent token price inflation, Argano will practice different ways, including
 
 To make AGO valuable and rare of its kind, the Argano team has a certain plan of decreasing the total supply of the AGO tokens up to _**30%**_ quarterly and during the next 5 years:
 
-![](.gitbook/assets/frame-12%20%281%29.png)
-
-![](.gitbook/assets/frame-14.png)
+![](<.gitbook/assets/Столбцы (2).png>)
 
 {% hint style="info" %}
 Fees, accumulated from the vaults and gathered in the Treasury contract, will be used to buy AGO tokens from the open market for their further burn.
 {% endhint %}
-
